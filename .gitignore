@@ -1,0 +1,27 @@
+# Dépendances
+node_modules/
+dist/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'environnement
+.env
+.env.local
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Fichiers personnels Windows
+/AppData/
+/.android/
+/.config/
+/.bun/
+/.npmrc
+/Downloads/
+/Documents/
+/Desktop/
+/OneDrive/
